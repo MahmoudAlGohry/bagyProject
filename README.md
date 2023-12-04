@@ -27,7 +27,7 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="./src" alt="screenshot" />
+  <img src="https://photos.app.goo.gl/dTbCRPBhAwEsoEGRA" alt="screenshot" />
 </div>
 
 
@@ -42,7 +42,7 @@
   </ul>
 </details>
 
-<details>
+<!--<details>
   <summary>Server</summary>
   <ul>
     <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
@@ -74,7 +74,7 @@
     <li><a href="https://www.jenkins.io/">Jenkins</a></li>
     <li><a href="https://circleci.com/">CircleCLI</a></li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 ### :dart: Features
