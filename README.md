@@ -94,7 +94,7 @@
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 -->
 
-<!-- Env Variables -->
+<!-- Env Variables 
 ### :key: Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -102,7 +102,7 @@ To run this project, you will need to add the following environment variables to
 `API_KEY`
 
 `ANOTHER_API_KEY`
-
+-->
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
 
