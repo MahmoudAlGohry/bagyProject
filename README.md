@@ -103,10 +103,10 @@ To run this project, you will need to add the following environment variables to
 
 `ANOTHER_API_KEY`
 -->
-<!-- Getting Started -->
+<!-- Getting Started 
 ## 	:toolbox: Getting Started
-
-<!-- Prerequisites -->
+-->
+<!-- Prerequisites 
 ### :bangbang: Prerequisites
 
 This project uses Yarn as package manager
@@ -114,8 +114,8 @@ This project uses Yarn as package manager
 ```bash
  npm install --global yarn
 ```
-
-<!-- Installation -->
+-->
+<!-- Installation x
 ### :gear: Installation
 
 Install my-project with npm
@@ -124,9 +124,9 @@ Install my-project with npm
   yarn install my-project
   cd my-project
 ```
+-->
 
-
-<!-- Run Locally -->
+<!-- Run Locally 
 ### :running: Run Locally
 
 Clone the project
@@ -152,9 +152,9 @@ Start the server
 ```bash
   yarn start
 ```
+-->
 
-
-<!-- Usage -->
+<!-- Usage 
 ## :eyes: Usage
 
 Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
@@ -167,14 +167,14 @@ function App() {
   return <Component />
 }
 ```
-
-<!-- Roadmap -->
+-->
+<!-- Roadmap 
 ## :compass: Roadmap
 
 * [x] Todo 1
 * [ ] Todo 2
-
-<!-- Contributing -->
+-->
+<!-- Contributing
 ## :wave: Contributing
 
 <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
@@ -186,27 +186,27 @@ Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
 
-
-<!-- Code of Conduct -->
+ -->
+<!-- Code of Conduct 
 ### :scroll: Code of Conduct
 
 Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
 
-
-<!-- License -->
+-->
+<!-- License 
 ## :warning: License
 
 Distributed under the no License. See LICENSE.txt for more information.
 
-
-<!-- Contact -->
+-->
+<!-- Contact 
 ## :handshake: Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
 Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
-
-<!-- Acknowledgments -->
+-->
+<!-- Acknowledgments 
 ## :gem: Acknowledgements
 
 Use this section to mention useful resources and libraries that you have used in your projects.
@@ -215,4 +215,4 @@ Use this section to mention useful resources and libraries that you have used in
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template)
-
+-->
