@@ -27,7 +27,7 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="https://photos.app.goo.gl/dTbCRPBhAwEsoEGRA" alt="screenshot" />
+  <img src="https://i.postimg.cc/wjRLqzGp/bagy.png" alt="screenshot" />
 </div>
 
 
