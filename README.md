@@ -79,11 +79,11 @@
 <!-- Features -->
 ### :dart: Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Premium Quality: Using new Tech. to make high-quality components.
+- User-Friendly Navigation: Experience easy browsing and a seamless shopping journey with our intuitive website design.
 
-<!-- Color Reference -->
+
+<!-- Color Reference 
 ### :art: Color Reference
 
 | Color             | Hex                                                                |
@@ -92,7 +92,7 @@
 | Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
 | Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
-
+-->
 
 <!-- Env Variables -->
 ### :key: Environment Variables
