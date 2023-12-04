@@ -27,7 +27,7 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="https://www.dropbox.com/scl/fi/x5on7jcgw4dyb5t44ergp/bagy.png?rlkey=lolrihwx3rg2uacxso4vw1mxo&dl=0" alt="screenshot" />
+  <img src="./src" alt="screenshot" />
 </div>
 
 
@@ -37,8 +37,6 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
   </ul>
