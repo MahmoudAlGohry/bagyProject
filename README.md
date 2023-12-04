@@ -20,11 +20,14 @@
 - [Acknowledgements](#gem-acknowledgements)
   -->
 
+
+
+
 <!-- About the Project -->
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="https://photos.app.goo.gl/mapwXpzjpiAbE7cu6" alt="screenshot" />
+  <img src="https://images2.imgbox.com/4c/cb/pv5CuYrv_o.png" alt="screenshot" />
 </div>
 
 
