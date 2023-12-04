@@ -27,7 +27,7 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="https://www.dropbox.com/scl/fi/x5on7jcgw4dyb5t44ergp/bagy.png?rlkey=lolrihwx3rg2uacxso4vw1mxo&dl=0" alt="screenshot" />
+  <img src="https://www.dropbox.com/scl/fi/x5on7jcgw4dyb5t44ergp/bagy.png" alt="screenshot" />
 </div>
 
 
