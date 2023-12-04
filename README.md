@@ -24,7 +24,7 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="(https://photos.app.goo.gl/TtgESkAfoKp3Rpjp6)" alt="screenshot" />
 </div>
 
 
